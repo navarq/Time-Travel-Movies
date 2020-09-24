@@ -1,6 +1,5 @@
 # Time-Travel-Movies
-Repository to learn C# .NET Core programming with NHibernate ORM
+Repository with example dataset of time travel movies.
 
-Have you ever had a Near death experience? 
+Is a database pre-requisite to learn C# .NET Core programming with NHibernate ORM
 
-[link](https://medium.com/swlh/have-you-died-take-the-quantum-immortality-test-a41d8bda16b2)
